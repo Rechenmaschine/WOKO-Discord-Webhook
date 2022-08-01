@@ -2,7 +2,8 @@
 
 Checking https://woko.ch for new rooms so you don't have to.
 
-WIP: may or may not receive an update.
+WIP: may or may not receive an update. This project was rushed so that it works. 
+Feel free to send me a pull request though!
 
 
 
