@@ -2,6 +2,8 @@
 
 Checking https://woko.ch for new rooms so you don't have to.
 
+WIP: may or may not receive an update.
+
 
 
 ## Setup
